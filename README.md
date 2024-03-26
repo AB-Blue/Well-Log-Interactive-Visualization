@@ -10,6 +10,7 @@ well_logs_visualization.ipynb: Jupyter notebook
 Author: Amir Abbas Babasafari (AB)
 Date: March 2024
 Email: a.babasafari@yahoo.com
+
 --------------------------------------------------------------------------------------------------------------------------------------
 # Installation Requirements:
 Python 3.9
